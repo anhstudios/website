@@ -1,0 +1,3 @@
+Because the contents of this repository will be maintained in the root of the SWG:ANH Web Server, all directories that belong to the website are prefixed with an underscore (ie: _images), while other directories for different content is stored regularly (ie /forums or /staff).
+
+Please note the staff portal is a seperate project of SWG:ANH and not associated with the SWG:ANH Website 2.0, but still developed in this repository.
